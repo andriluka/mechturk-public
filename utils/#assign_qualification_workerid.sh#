@@ -1,0 +1,25 @@
+#!/usr/bin/env sh
+
+. ./mturk_init.sh
+
+# Level 1
+#QUALIFICATION_ID=2UC3NAB6BFMHBURPFUSTRFDGEZYUHJ
+
+# Queue 2 (L2) - Steve
+#QUALIFICATION_ID=2AGQY2RCJK65V17UESRK2IAQ9RZ5U7
+
+# Queue 3 - Kristina
+#QUALIFICATION_ID=2IMLB3L0FBJBEU4ABKIE3E5RPZGXLF 
+
+# Queue 3 - Karthikeyan
+#QUALIFICATION_ID=2BOWJ5OPB0YXC51PJX27MP9U39H5X0 
+
+echo WORKER ID: ${1}
+
+exec "$MTURK_CMD_HOME"/bin/assignQualification.sh -qualtypeid $QUALIFICATION_ID -workerid ${1}
+
+
+
+
+
+

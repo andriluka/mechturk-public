@@ -1,0 +1,28 @@
+[15.04.2014 12:29:21][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[15.04.2014 12:29:21][AnnoTool][1] -> Using Qt rendering engine.
+[15.04.2014 12:29:21][AnnoTool][1] -> Loading IDL annotation datasets from [/local/IMAGES/driving_data_q50_data/all_extracted/4-2-14-monterey-cam2.al].
+[15.04.2014 12:29:22][AnnoTool][1] -> Loaded 2692 IDL annotation datasets.
+[15.04.2014 12:29:22][AnnoTool][1] -> Loaded project '4-2-14-monterey-cam2.al': 0 classes, 2692 AnnotationFiles.
+[15.04.2014 13:36:20][AnnoTool][1] -> AnnoTool is shutting down.
+[15.04.2014 13:38:39][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[15.04.2014 13:38:39][AnnoTool][1] -> Using Qt rendering engine.
+[15.04.2014 13:38:39][AnnoTool][1] -> Loading IDL annotation datasets from [/local/IMAGES/driving_data_q50_data/all_extracted/4-9-14-concord-cam2.al].
+[15.04.2014 13:38:39][AnnoTool][1] -> Loaded 1743 IDL annotation datasets.
+[15.04.2014 13:38:39][AnnoTool][1] -> Loaded project '4-9-14-concord-cam2.al': 0 classes, 1743 AnnotationFiles.
+[15.04.2014 13:40:11][AnnoTool][1] -> AnnoTool is shutting down.
+[20.04.2014 10:30:29][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[20.04.2014 10:30:29][AnnoTool][1] -> Using Qt rendering engine.
+[20.04.2014 10:30:30][AnnoTool][1] -> Loading IDL annotation datasets from [/local/IMAGES/driving_data_q50_data/all_extracted/4-3-14-gilroy-to-gilroy-f2.al].
+[20.04.2014 10:30:30][AnnoTool][1] -> Loaded 790 IDL annotation datasets.
+[20.04.2014 10:30:30][AnnoTool][1] -> Loaded project '4-3-14-gilroy-to-gilroy-f2.al': 0 classes, 790 AnnotationFiles.
+[20.04.2014 11:25:20][AnnoTool][1] -> AnnoTool is shutting down.
+[05.06.2014 11:27:29][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[05.06.2014 11:27:30][AnnoTool][1] -> Using Qt rendering engine.
+[05.06.2014 11:27:30][AnnoTool][1] -> Loading IDL annotation datasets from [/local/IMAGES/driving_data_q50_data/all_extracted/4-9-14-concord-split_0_280N_d2.al].
+[05.06.2014 11:27:30][AnnoTool][1] -> Loaded 1210 IDL annotation datasets.
+[05.06.2014 11:27:30][AnnoTool][1] -> Loaded project '4-9-14-concord-split_0_280N_d2.al': 0 classes, 1210 AnnotationFiles.
+[05.06.2014 14:38:46][AnnoTool][1] -> AnnoTool is shutting down.
+[05.06.2014 19:28:05][AnnoTool][1] -> AnnoTool Version 0.3.14 is starting up, running on Linux System
+[05.06.2014 19:28:05][AnnoTool][1] -> Using Qt rendering engine.
+[05.06.2014 19:28:05][AnnoTool][1] -> Loaded project '4-9-14-concord-split_0_280N_d2.al': 0 classes, 0 AnnotationFiles.
+[05.06.2014 19:28:09][AnnoTool][1] -> AnnoTool is shutting down.
